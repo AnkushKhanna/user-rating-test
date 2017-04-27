@@ -36,7 +36,7 @@ object PredictUserRating {
       val recommendations = predictUserRating
         .recommendation(userId)
         .map(rating => (rating.product, rating.rating)).mkString(" - ")
-      println(s"Prediction is $recommendations")
+      println(s"Recommendation is $recommendations")
     }
   }
 
