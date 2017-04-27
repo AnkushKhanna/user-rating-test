@@ -8,8 +8,7 @@ You can generate the model using running ***UserRating***.
 A model file should be saved in ***data/als-model***
 
 ## Prediction/Recommendation:
-Running ***PredictUserRating*** should load the model and ask for  
-options to predict (p) or recommend (r).
+Running ***PredictUserRating*** should load the model and ask for options to predict (p) or recommend (r).
 
 ### Prediction:
 Input: Need to provide user-id and item-id
