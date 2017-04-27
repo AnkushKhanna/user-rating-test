@@ -23,6 +23,7 @@ Output: Would return the best 5 items for user-id
 
 ### Sample Example:
 #### Prediction:
+```
 [Out] Enter p for prediction, r for recommendation, anything else to exit.
 
 [In] p
@@ -39,8 +40,10 @@ Output: Would return the best 5 items for user-id
 
 
 [Out] Prediction is 5.675551598366361
+```
 
 #### Recommendation:
+```
 [In]Enter p for prediction, r for recommendation, anything else to exit.
 
 [Out] r
@@ -52,4 +55,4 @@ Output: Would return the best 5 items for user-id
 
 
 [Out] Recommendation is (39002,6.3528605363038935) - (1496,6.3528605363038935) - (53879,6.1937178585782675) - (70588,6.113054081350597) - (27681,6.113054081350597)
-
+```
